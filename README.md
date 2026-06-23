@@ -13,3 +13,4 @@ base 9
 base 10
 exploring base 1
 exploring base 2
+exploring base 3
