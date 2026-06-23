@@ -54,3 +54,4 @@ basescan.org 10
 "I am all in with base"
 gBase 🫡
 building on base day 1
+building on base day 2
