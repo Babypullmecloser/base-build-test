@@ -52,3 +52,4 @@ basescan.org 8
 basescan.org 9
 basescan.org 10
 "I am all in with base"
+gBase 🫡
