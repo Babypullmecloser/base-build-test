@@ -12,4 +12,4 @@ base 8
 base 9
 base 10
 exploring base 1
-
+exploring base 2
