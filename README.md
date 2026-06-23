@@ -38,3 +38,4 @@ base-build-test 4
 base-build-test 5
 base-build-test 6
 base-build-test 7
+base-build-test 8
