@@ -17,3 +17,4 @@ exploring base 3
 exploring base 4
 exploring base 5
 exploring base 6
+exploring base 7
