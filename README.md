@@ -21,3 +21,4 @@ exploring base 7
 exploring base 8
 exploring base 9
 exploring base 10
+base testing 1
